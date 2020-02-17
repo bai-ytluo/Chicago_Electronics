@@ -12,3 +12,5 @@ third test for creating a side-way branch
 fifth test for "git switch"
 
 sixth test for "git merge --ff (fast forward)"
+
+seventh test for "git merge --no-ff (no fast forward)"
