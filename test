@@ -10,3 +10,5 @@ second test for git push parameters
 third test for creating a side-way branch
 
 fifth test for "git switch"
+
+sixth test for "git merge --ff (fast forward)"
