@@ -2,4 +2,4 @@ create a test file from github
 
 first online test
 
-second to edit the online file for dev push
+This is for online conflict test between different local pushes`
